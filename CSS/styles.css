@@ -1,0 +1,30 @@
+body {
+background-color:#1a5f7a;
+}
+h1{
+text-align:left;
+color:#eee9da;
+}
+h2{
+text-align:left;
+color:#eee9da;
+}
+h3{
+text-align:center;
+color:#eee9da;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5% ;
+}
+table{
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+}
+li{
+text-align:center;
+}
